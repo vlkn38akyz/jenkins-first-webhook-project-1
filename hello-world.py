@@ -1,1 +1,1 @@
-print('Lan yavsak sus')
+print('konusma sus')
