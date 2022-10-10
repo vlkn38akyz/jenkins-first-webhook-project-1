@@ -1,0 +1,1 @@
+print('Lan yavsak sus')
